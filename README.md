@@ -60,6 +60,7 @@ Users can ask questions in **natural language**, and the system automatically:
 #output of the code is here:-
 ![image alt](https://github.com/tarnuN/Ap_Moller_Assignment/blob/main/Screenshot%202025-11-12%20220436.png)
 ![image alt](https://github.com/tarnuN/Ap_Moller_Assignment/blob/main/Screenshot%202025-11-12%20220354.png?raw=true)
+![image alt](https://github.com/tarnuN/Ap_Moller_Assignment/blob/main/Screenshot%202025-11-12%20215341.png?raw=true)
 ![image alt](https://github.com/tarnuN/Ap_Moller_Assignment/blob/main/Screenshot%202025-11-12%20220532.png)
 ## ⚙️ Setup Instructions
 
