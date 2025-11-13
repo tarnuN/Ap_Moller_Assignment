@@ -57,7 +57,9 @@ Users can ask questions in **natural language**, and the system automatically:
 | **Visualization** | matplotlib |
 
 ---
+#output of the code is here:-
 
+![image alt](https://github.com/tarnuN/Ap_Moller_Assignment/blob/main/Screenshot%202025-11-12%20220532.png)
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
