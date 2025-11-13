@@ -193,9 +193,9 @@ Upload as **Unlisted YouTube link** or **Google Drive shareable link**.
 
 ## 👨‍💻 Author
 **Tarun Naik**  
-AI/ML Intern — Maersk Assignment Submission  
-📧 tarunnaik@example.com  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+AI/ML Intern — A.P Maersk Assignment Submission  
+📧 tarunnaik174@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/bhukya-tarun-naik-830684279/) · [GitHub](https://github.com/tarnuN)
 
 ---
 
